@@ -1,0 +1,1 @@
+initSidebarItems({"struct":[["ConfigID","Represents a header used to denote the configuration of a device's DDD."]]});

@@ -1,0 +1,1 @@
+initSidebarItems({"struct":[["BootID","Represents a header used to denote the boot instance of a root device."]]});

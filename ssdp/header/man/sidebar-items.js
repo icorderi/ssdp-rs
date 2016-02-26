@@ -1,0 +1,1 @@
+initSidebarItems({"struct":[["Man","Represents a header used to specify HTTP extension."]]});

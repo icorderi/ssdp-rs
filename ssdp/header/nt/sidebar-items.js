@@ -1,0 +1,1 @@
+initSidebarItems({"struct":[["NT","Represents a header used to specify a notification type.Any double colons will not be processed as separate FieldMaps."]]});

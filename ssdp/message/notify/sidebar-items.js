@@ -1,0 +1,1 @@
+initSidebarItems({"struct":[["NotifyListener","Notify listener that can listen to notify messages sent within the network."],["NotifyMessage","Notify message that can be sent via multicast to devices on the network."]]});

@@ -1,0 +1,1 @@
+initSidebarItems({"struct":[["SSDPIter","Iterator for an SSDPReceiver."],["SSDPReceiver","A non-blocking SSDP message receiver."]]});
